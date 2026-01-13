@@ -60,8 +60,8 @@ A full-stack event management system built with **pure PHP, HTML, CSS, and JavaS
 
 ## Default Admin Credentials
 
-- **Email**: admin@ticketflow.com
-- **Password**: password123
+- **Email**:
+- **Password**:
 
 ⚠️ **Change these credentials after first login!**
 
