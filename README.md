@@ -37,7 +37,7 @@ A full-stack event management system built with **pure PHP, HTML, CSS, and JavaS
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ticketflow.git
+   git clone https://github.com/kazunkanchana/Event-Registration-Ticketing-System/ticketflow.git
    cd ticketflow
    ```
 
